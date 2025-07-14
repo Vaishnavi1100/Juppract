@@ -1,5 +1,123 @@
-pandas
+# Statistics & Econometrics
 numpy
+scipy
+statsmodels
+pingouin
+researchpy
+patsy
+arch (for ARCH/GARCH time series models)
+linearmodels (panel data & instrumental variables)
+pyjanitor (data cleaning with statistical flavor)
+descriptive-statistics
+
+#📈 Finance & Quantitative Finance
+QuantLib
+ffn #(financial performance analysis)
+empyrical #(returns, Sharpe, Sortino)
+pyfolio #(risk/return tear sheets)
+bt #(backtesting framework)
+backtrader
+zipline-reloaded
+quantstats
+yfinance
+alpaca-trade-api
+ccxt #(cryptocurrency trading)
+qstrader
+finmarketpy
+FinancePy
+pandas-datareader
+alpha_vantage
+investpy #(historical data & fundamentals)
+ta #(technical analysis indicators)
+tulipy #(technical analysis indicators)
+finvizfinance
+
+#📚 Machine Learning & AI
+scikit-learn
+xgboost
+lightgbm
+catboost
+tensorflow
+keras
+pytorch
+h2o
+mlxtend
+imblearn
+
+#🕵️‍♂️ Data Analysis & Manipulation
+pandas
+dask
+modin
+datatable
+vaex
+polars
+
+#📉 Time Series Analysis
+tslearn
+prophet
+sktime
+gluonts
+darts
+pmdarima
+neuralprophet
+
+#📊 Data Visualization
 matplotlib
 seaborn
-scipy
+plotly
+bokeh
+altair
+holoviews
+cufflinks
+pygal
+geopandas
+folium
+
+#📈 Monte Carlo Simulations & Optimization
+scipy.optimize
+cvxpy #(convex optimization)
+pyportfolioopt
+simpy #(discrete-event simulation)
+SALib #(sensitivity analysis)
+quantecon
+openturns
+
+#📄 Reporting & Dashboards
+streamlit
+dash
+panel
+voila
+
+#📃 Natural Language Processing (for sentiment / news analysis)
+nltk
+spacy
+textblob
+transformers
+gensim
+newspaper3k
+
+#🔍 Web Scraping & APIs
+requests
+beautifulsoup4
+scrapy
+selenium
+lxml
+html5lib
+
+#🗄️ Database Connectivity
+SQLAlchemy
+sqlite3
+pymongo
+psycopg2
+pyodbc
+
+#📚 Learning & Tutorials / Educational
+sympy #(symbolic mathematics)
+manim #(math animations)
+ipywidgets
+watermark #(environment management)
+numba #(speed up code)
+cython #(C extensions for Python)
+joblib #(parallel processing)
+snakeviz #(profiling)
+line_profiler
