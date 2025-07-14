@@ -5,9 +5,9 @@ statsmodels
 pingouin
 researchpy
 patsy
-arch (for ARCH/GARCH time series models)
-linearmodels (panel data & instrumental variables)
-pyjanitor (data cleaning with statistical flavor)
+arch #(for ARCH/GARCH time series models)
+linearmodels #(panel data & instrumental variables)
+pyjanitor #(data cleaning with statistical flavor)
 descriptive-statistics
 
 #📈 Finance & Quantitative Finance
