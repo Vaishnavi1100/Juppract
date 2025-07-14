@@ -10,7 +10,7 @@ linearmodels #(panel data & instrumental variables)
 pyjanitor #(data cleaning with statistical flavor)
 descriptive-statistics
 
-#📈 Finance & Quantitative Finance
+# Finance & Quantitative Finance
 QuantLib
 ffn #(financial performance analysis)
 empyrical #(returns, Sharpe, Sortino)
@@ -32,7 +32,7 @@ ta #(technical analysis indicators)
 tulipy #(technical analysis indicators)
 finvizfinance
 
-#📚 Machine Learning & AI
+# Machine Learning & AI
 scikit-learn
 xgboost
 lightgbm
@@ -44,7 +44,7 @@ h2o
 mlxtend
 imblearn
 
-#🕵️‍♂️ Data Analysis & Manipulation
+# Data Analysis & Manipulation
 pandas
 dask
 modin
@@ -52,7 +52,7 @@ datatable
 vaex
 polars
 
-#📉 Time Series Analysis
+# Time Series Analysis
 tslearn
 prophet
 sktime
@@ -61,7 +61,7 @@ darts
 pmdarima
 neuralprophet
 
-#📊 Data Visualization
+# Data Visualization
 matplotlib
 seaborn
 plotly
@@ -73,7 +73,7 @@ pygal
 geopandas
 folium
 
-#📈 Monte Carlo Simulations & Optimization
+# Monte Carlo Simulations & Optimization
 scipy.optimize
 cvxpy #(convex optimization)
 pyportfolioopt
@@ -82,13 +82,13 @@ SALib #(sensitivity analysis)
 quantecon
 openturns
 
-#📄 Reporting & Dashboards
+# Reporting & Dashboards
 streamlit
 dash
 panel
 voila
 
-#📃 Natural Language Processing (for sentiment / news analysis)
+# Natural Language Processing (for sentiment / news analysis)
 nltk
 spacy
 textblob
@@ -96,7 +96,7 @@ transformers
 gensim
 newspaper3k
 
-#🔍 Web Scraping & APIs
+# Web Scraping & APIs
 requests
 beautifulsoup4
 scrapy
@@ -104,14 +104,14 @@ selenium
 lxml
 html5lib
 
-#🗄️ Database Connectivity
+# Database Connectivity
 SQLAlchemy
 sqlite3
 pymongo
 psycopg2
 pyodbc
 
-#📚 Learning & Tutorials / Educational
+# Learning & Tutorials / Educational
 sympy #(symbolic mathematics)
 manim #(math animations)
 ipywidgets
